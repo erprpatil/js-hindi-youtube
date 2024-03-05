@@ -14,6 +14,9 @@
    // console.log(gameName.toUpperCase());
    // console.log(gameName);
 
-   console.log(gameName.charAt(2));
-   console.log(gameName.indexOf('a'));
-   console.log(gameName);
+   // console.log(gameName.charAt(2));
+   // console.log(gameName.indexOf('a'));
+   // console.log(gameName.substring(0,3));
+   // console.log(gameName.slice(-10, 10));
+
+   
