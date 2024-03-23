@@ -33,9 +33,9 @@ const myObjext = {
     'game2' : 'Spiderman'
 }
 
-for (const [key, value] of myObjext) {
-    console.log(key, value);
-}
+// for (const [key, value] of myObjext) {
+//     console.log(key, value);
+// }
 
 
 
